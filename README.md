@@ -26,9 +26,14 @@
                '""^^^VY88888888888VY^^^""'                  
 ```
 
-
-
-
-Contacts
+## About
 --------
+- I'm a Game Developer who mostly uses the Godot Game Engine
+- I use Linux btw.
+
+
+## Contacts
+-----------
 Youtube: https://www.youtube.com/channel/UCpoZkvFkTqYPhyto3g5W8_w
+Discord:
+
