@@ -32,8 +32,8 @@ The_Praet0rian
 - AGE: 16 yo.
 - OS: Ubuntu
 - HOBBIES: Game Dev
-- ENGINE: GODOT
-- Machine: Framework 7840u
+- ENGINE: Godot Game Engine
+- MACHINE: Framework Ryzen 7-7840u
 
 Contacts
 --------
