@@ -38,6 +38,5 @@ The_Praet0rian
 Contacts
 --------
 
-- E-MAIL:   the_praet0rian404@gmail.com
-- Youtube:  https://www.youtube.com/channel/UCpoZkvFkTqYPhyto3g5W8_w
-- Discord:  https://discord.gg/spDFP46sEn
+- [My Youtube](https://www.youtube.com/channel/UCpoZkvFkTqYPhyto3g5W8_w)
+- [My Discord](https://discord.gg/spDFP46sEn)
